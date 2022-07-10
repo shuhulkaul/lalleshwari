@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/lalleshwari/static/css/main.0ccedb90.css",
-    "main.js": "/lalleshwari/static/js/main.8e92671d.js",
+    "main.css": "/lalleshwari/static/css/main.f1729c2c.css",
+    "main.js": "/lalleshwari/static/js/main.5a631d9b.js",
     "static/js/787.13e9b0ba.chunk.js": "/lalleshwari/static/js/787.13e9b0ba.chunk.js",
     "static/media/2.mp3": "/lalleshwari/static/media/2.f5e58bcc52128020b007.mp3",
     "static/media/1.mp3": "/lalleshwari/static/media/1.ede8ad668bab9e664ab2.mp3",
     "static/media/lal-ded-logo.png": "/lalleshwari/static/media/lal-ded-logo.c29167d78e3f409838d4.png",
     "index.html": "/lalleshwari/index.html",
     "static/media/empty.mp3": "/lalleshwari/static/media/empty.1011efdc8a4905a8a640.mp3",
-    "main.0ccedb90.css.map": "/lalleshwari/static/css/main.0ccedb90.css.map",
-    "main.8e92671d.js.map": "/lalleshwari/static/js/main.8e92671d.js.map",
+    "main.f1729c2c.css.map": "/lalleshwari/static/css/main.f1729c2c.css.map",
+    "main.5a631d9b.js.map": "/lalleshwari/static/js/main.5a631d9b.js.map",
     "787.13e9b0ba.chunk.js.map": "/lalleshwari/static/js/787.13e9b0ba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0ccedb90.css",
-    "static/js/main.8e92671d.js"
+    "static/css/main.f1729c2c.css",
+    "static/js/main.5a631d9b.js"
   ]
 }
