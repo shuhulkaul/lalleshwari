@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/lalleshwari/static/css/main.1cfcd14a.css",
+    "main.css": "/lalleshwari/static/css/main.fd9a1233.css",
     "main.js": "/lalleshwari/static/js/main.5a609401.js",
     "static/js/787.13e9b0ba.chunk.js": "/lalleshwari/static/js/787.13e9b0ba.chunk.js",
     "static/media/2.mp3": "/lalleshwari/static/media/2.f5e58bcc52128020b007.mp3",
@@ -8,12 +8,12 @@
     "static/media/lal-ded-logo.png": "/lalleshwari/static/media/lal-ded-logo.c29167d78e3f409838d4.png",
     "index.html": "/lalleshwari/index.html",
     "static/media/empty.mp3": "/lalleshwari/static/media/empty.1011efdc8a4905a8a640.mp3",
-    "main.1cfcd14a.css.map": "/lalleshwari/static/css/main.1cfcd14a.css.map",
+    "main.fd9a1233.css.map": "/lalleshwari/static/css/main.fd9a1233.css.map",
     "main.5a609401.js.map": "/lalleshwari/static/js/main.5a609401.js.map",
     "787.13e9b0ba.chunk.js.map": "/lalleshwari/static/js/787.13e9b0ba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1cfcd14a.css",
+    "static/css/main.fd9a1233.css",
     "static/js/main.5a609401.js"
   ]
 }
